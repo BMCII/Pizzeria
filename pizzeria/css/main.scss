@@ -15,7 +15,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #f5f3f4;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -52,3 +52,38 @@ $on-laptop:        800px;
 ;
 
 
+
+.order_button {
+  background: #f09b31;
+  background-image: -webkit-linear-gradient(top, #f09b31, #f3293f);
+  background-image: -moz-linear-gradient(top, #f09b31, #f3293f);
+  background-image: -ms-linear-gradient(top, #f09b31, #f3293f);
+  background-image: -o-linear-gradient(top, #f09b31, #f3293f);
+  background-image: linear-gradient(to bottom, #f09b31, #f3293f);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  font-family: "gill sans";
+  color: #f5f3f4;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.order_button:hover {
+  background: #f3293f;
+  background-image: -webkit-linear-gradient(top, #f3293f, #f09b31);
+  background-image: -moz-linear-gradient(top, #f3293f, #f09b31);
+  background-image: -ms-linear-gradient(top, #f3293f, #f09b31);
+  background-image: -o-linear-gradient(top, #f3293f, #f09b31);
+  background-image: linear-gradient(to bottom, #f3293f, #f09b31);
+  text-decoration: none;
+}
+
+.site-title{
+  margin: 20px;
+}
+
+#wrapper .site-title a{
+  margin: 0 auto;
+}
