@@ -2,10 +2,9 @@
 title: Pizzeria Valdiano
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/pizzeria/pizzeria" # the subpath of your site, e.g. /blog/
+
+  Pizzeria Valdiano is an authentic pizzeria that creates a neighborhood New York-style feel. Customers are greeted with a "Buon Giorno" from a friendly server behind the counter. There is a cozy, family-friendly atmosphere that is commonplace in Southern Italy.
+baseurl: "/pizzeria/" # the subpath of your site, e.g. /blog/
 url: "http://pizzeriavaldiano.com/" # the base hostname & protocol for your site
 twitter_username: ValdianoPizza
 facebook_username:  PizzeriaValdiano
