@@ -5,5 +5,8 @@
  Arrays
  */
 
-alert("testing 1,2,3");
+//alert("testing 1,2,3");
 
+$(function() {
+ $(".rslides").responsiveSlides();
+});
